@@ -23,4 +23,4 @@ I mostly work with TypeScript, Angular, React, Playwright, Docker/Node.js runtim
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/vol4k/
-- Email: vol4k@gmail.com
+- Email: vol4k.w@gmail.com
